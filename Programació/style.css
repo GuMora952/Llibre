@@ -1,0 +1,42 @@
+p {
+    color:ali
+}
+
+h1.pos {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+img.post {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+div.nosp {
+    white-space: nowrap;
+}
+
+div.mida {
+    font-size: 10px;
+}
+
+div.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li.mida {
+    font-size: 30px;
+}
+
+li {
+    font-size: 27px;
+}
+
